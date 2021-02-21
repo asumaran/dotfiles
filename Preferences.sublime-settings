@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"column_number": false,
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"node_path": "/Users/asumaran/.nvm/current/bin/node",
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "false"
+}
